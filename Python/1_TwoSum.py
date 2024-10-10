@@ -2,10 +2,6 @@
 # https://leetcode.com/problems/two-sum/description/
 from typing import List
 
-
-
-
-
 class Solution:
 
     def longestCommonPrefixMySolution(self, strs: List[str]) -> str:
