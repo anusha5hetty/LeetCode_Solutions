@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashetty\\Documents\\Personal_Git\\LeetCode_Solutions\\LeetCode_Solutions\\C#\\Solutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDD7EF5-F21D-45D9-AEE5-11F5D626E7E8}|Solutions.csproj|c:\\users\\ashetty\\documents\\personal_git\\leetcode_solutions\\leetcode_solutions\\c#\\solutions\\easy\\28_find_the_first_string_occurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDD7EF5-F21D-45D9-AEE5-11F5D626E7E8}|Solutions.csproj|solutionrelative:easy\\28_find_the_first_string_occurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDD7EF5-F21D-45D9-AEE5-11F5D626E7E8}|Solutions.csproj|c:\\users\\ashetty\\documents\\personal_git\\leetcode_solutions\\leetcode_solutions\\c#\\solutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDD7EF5-F21D-45D9-AEE5-11F5D626E7E8}|Solutions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 445,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "28_Find_The_First_String_Occurance.cs",
+              "DocumentMoniker": "C:\\Users\\ashetty\\Documents\\Personal_Git\\LeetCode_Solutions\\LeetCode_Solutions\\C#\\Solutions\\Easy\\28_Find_The_First_String_Occurance.cs",
+              "RelativeDocumentMoniker": "Easy\\28_Find_The_First_String_Occurance.cs",
+              "ToolTip": "C:\\Users\\ashetty\\Documents\\Personal_Git\\LeetCode_Solutions\\LeetCode_Solutions\\C#\\Solutions\\Easy\\28_Find_The_First_String_Occurance.cs",
+              "RelativeToolTip": "Easy\\28_Find_The_First_String_Occurance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:59:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashetty\\Documents\\Personal_Git\\LeetCode_Solutions\\LeetCode_Solutions\\C#\\Solutions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ashetty\\Documents\\Personal_Git\\LeetCode_Solutions\\LeetCode_Solutions\\C#\\Solutions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:58:30.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

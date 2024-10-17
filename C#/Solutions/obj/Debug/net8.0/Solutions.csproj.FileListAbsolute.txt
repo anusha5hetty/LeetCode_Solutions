@@ -1,0 +1,15 @@
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\bin\Debug\net8.0\Solutions.exe
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\bin\Debug\net8.0\Solutions.deps.json
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\bin\Debug\net8.0\Solutions.runtimeconfig.json
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\bin\Debug\net8.0\Solutions.dll
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\bin\Debug\net8.0\Solutions.pdb
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.AssemblyInfoInputs.cache
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.AssemblyInfo.cs
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.sourcelink.json
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.dll
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\refint\Solutions.dll
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.pdb
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\Solutions.genruntimeconfig.cache
+C:\Users\ashetty\Documents\Personal_Git\LeetCode_Solutions\LeetCode_Solutions\C#\Solutions\obj\Debug\net8.0\ref\Solutions.dll
