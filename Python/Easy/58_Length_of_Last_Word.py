@@ -17,15 +17,14 @@ class Solution:
         return len(word)
 
     def lengthOfLastWordBetterSoln(self, s: str) -> int:
+        s = s.rstrip()  # Remove trailing spaces
         length = 0
-        x = s.strip()
 
-        for i in range(len(x) - 1, -1, -1):
-            if x[i] != " ":
-                length += 1
-            else:  
+        for char in reversed(s):
+            if char == " ":
                 break
-        
+            length += 1
+
         return length
 
 s = "Hello"
