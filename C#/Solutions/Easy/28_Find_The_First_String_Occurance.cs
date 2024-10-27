@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace Solutions.Easy
 {
   internal class _28_Find_The_First_String_Occurance
