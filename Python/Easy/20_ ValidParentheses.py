@@ -44,6 +44,6 @@ s = '()'
 s = "([])"
 s = "("
 s = "(([]){})"
-val = Solution().isValidMySoln(s);
+val = Solution().isValidOtherSolns(s)
 
 print(val)
