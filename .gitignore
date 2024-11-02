@@ -23,6 +23,7 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+*\Debug\*
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/build/
@@ -125,4 +126,10 @@ StyleCopReport.xml
 *.dtbcache*
 *.AssemblyInfo*
 *.editorconfig
+*.cache
+*.v2
+*.bin
+*.db
+*.dll
+*.json
 *.vsidx
