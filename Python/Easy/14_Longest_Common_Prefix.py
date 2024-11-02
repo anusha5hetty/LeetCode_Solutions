@@ -1,5 +1,5 @@
 # https://leetcode.com/problemset/
-# https://leetcode.com/problems/two-sum/description/
+# https://leetcode.com/problems/longest-common-prefix/
 from typing import List
 
 class Solution:

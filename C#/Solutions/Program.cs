@@ -1,6 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Solutions.Easy;
 
-var haystack = "hello";
-var needle = "lo";
-Console.WriteLine(_28_Find_The_First_String_Occurance.StrStr(haystack, needle));
+//var haystack = "hello";
+//var needle = "lo";
+//Console.WriteLine(_28_Find_The_First_String_Occurance.StrStr(haystack, needle));
+
+//var s = "()[]{})";
+//s = "()";
+//s = "([])";
+//s = "(";
+//s = "(([]){})";
+//Console.WriteLine(new _20__ValidParentheses().isValid(s));
+
+var strs = new[] { "ab", "a" };
+
+Console.WriteLine(_14_Longest_Common_Prefix.longestCommonPrefix(strs));
