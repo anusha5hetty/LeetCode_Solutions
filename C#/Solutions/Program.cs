@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Solutions.Easy;
+using Solutions.Medium;
 
 //var haystack = "hello";
 //var needle = "lo";
@@ -12,6 +13,8 @@ using Solutions.Easy;
 //s = "(([]){})";
 //Console.WriteLine(new _20__ValidParentheses().isValid(s));
 
-var strs = new[] { "ab", "a" };
+//var strs = new[] { "ab", "a" };
 
-Console.WriteLine(_14_Longest_Common_Prefix.longestCommonPrefix(strs));
+//Console.WriteLine(_14_Longest_Common_Prefix.longestCommonPrefix(strs));
+
+Console.WriteLine(_11_Container_With_Most_Water.maxArea([1, 8, 6, 2, 5, 4, 8, 3, 7]));
