@@ -19,4 +19,7 @@ using Solutions.Medium;
 
 //Console.WriteLine(_11_Container_With_Most_Water.maxArea([1, 8, 6, 2, 5, 4, 8, 3, 7]));
 
-Console.WriteLine(_119_Pascals_Triangle_2.getRow(0));
+//Console.WriteLine(_119_Pascals_Triangle_2.getRow(0));
+
+Console.WriteLine(_7_Reverse_Integer.Reverse(-214748364));
+
