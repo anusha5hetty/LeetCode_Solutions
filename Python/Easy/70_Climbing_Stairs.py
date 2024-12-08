@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/climbing-stairs/
+from collections import deque
+
 import sys
 
 from pathlib import Path
@@ -12,28 +14,25 @@ class Solution:
     def climbStairs(self, n: int) -> int:
         root = Tree(0)
         step_count = 0
-        queue = [root]
+        # Queue because we are using BFS for adding items to the Tree
+        queue = deque([root])
 
         while queue:
-            popped = queue.pop(0)
+            popped = queue.pop()
             val = popped.value
 
-            if not popped.left:
-                
-                if val < n-1:
-                    popped.left = Tree(val)
-                    queue.append(popped.left)
-                elif val == n:
-                    step_count += 1
-
-            if not popped.right:
-                if val < n-2:
-                    popped.right = Tree(val)
-                    queue.append(popped.right)
-                elif val == n:
-                    step_count += 1
+            if val == n:
+                step_count += 1
+            else:
+                if (not popped.left) and val < n:
+                    popped.left = Tree(val+1)
+                    queue.appendleft(popped.left)
+                if (not popped.right) and val < n-1:
+                    popped.right = Tree(val+2)
+                    queue.appendleft(popped.right)
+               
         return step_count
-    
+        
 
 print(Solution().climbStairs(5))
             
