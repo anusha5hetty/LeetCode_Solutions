@@ -1,10 +1,13 @@
+# https://leetcode.com/problems/sqrtx/description/
 import math
+
 
 class Solution:
     def mySqrtSimple(self, x: int) -> int:
         return math.floor(math.sqrt(x))
     
     def mySqrtActual(self, x: int) -> int:
+        # using binary search
         if x == 0 or x == 1:
             return x
         start = 1
